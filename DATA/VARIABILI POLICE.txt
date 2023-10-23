@@ -1,0 +1,12 @@
+POLICE ATT
+0 'custody_id', 
+1 'participant_age_group', 
+2 'participant_gender',
+3 'participant_status',
+4 'participant_type',
+5 'latitude',
+6 'longitude',
+7 'gun_stolen',
+8 'gun_type',
+9 'incident_id',
+10 'date_fk'

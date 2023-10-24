@@ -1,0 +1,81 @@
+gun_stolen,gun_type,gun_id
+Stolen,Shotgun,0
+Stolen,380 Auto,1
+Irrelevant,Irrelevant,2
+Stolen,Handgun,3
+Stolen,9mm,4
+Stolen,45 Auto,5
+Stolen,Unknown,6
+Unknown,Handgun,7
+Stolen,7.62 [AK-47],8
+Stolen,22 LR,9
+Stolen,Rifle,10
+Stolen,223 Rem [AR-15],11
+Not-stolen,Handgun,12
+Stolen,40 SW,13
+Stolen,38 Spl,14
+Unknown,9mm,15
+Unknown,45 Auto,16
+Stolen,32 Auto,17
+Not-stolen,22 LR,18
+Unknown,Shotgun,19
+Stolen,357 Mag,20
+Unknown,12 gauge,21
+Stolen,Other,22
+Unknown,Rifle,23
+Not-stolen,45 Auto,24
+Unknown,Unknown,25
+Stolen,44 Mag,26
+Not-stolen,40 SW,27
+Stolen,12 gauge,28
+Stolen,25 Auto,29
+Unknown,22 LR,30
+Not-stolen,357 Mag,31
+Stolen,20 gauge,32
+Not-stolen,Shotgun,33
+Unknown,40 SW,34
+Not-stolen,Unknown,35
+Stolen,30-30 Win,36
+Unknown,223 Rem [AR-15],37
+Not-stolen,Rifle,38
+Unknown,380 Auto,39
+Not-stolen,223 Rem [AR-15],40
+Not-stolen,9mm,41
+Unknown,25 Auto,42
+Unknown,38 Spl,43
+Not-stolen,7.62 [AK-47],44
+Unknown,410 gauge,45
+Unknown,7.62 [AK-47],46
+Not-stolen,Other,47
+Not-stolen,410 gauge,48
+Unknown,Other,49
+Not-stolen,32 Auto,50
+Not-stolen,20 gauge,51
+Not-stolen,38 Spl,52
+Not-stolen,380 Auto,53
+Stolen,308 Win,54
+Not-stolen,308 Win,55
+Stolen,410 gauge,56
+Stolen,30-06 Spr,57
+Stolen,16 gauge,58
+Unknown,357 Mag,59
+Not-stolen,10mm,60
+Unknown,10mm,61
+Unknown,30-30 Win,62
+Not-stolen,25 Auto,63
+Not-stolen,12 gauge,64
+Unknown,16 gauge,65
+Stolen,10mm,66
+Not-stolen,44 Mag,67
+Unknown,44 Mag,68
+Stolen,300 Win,69
+Not-stolen,30-06 Spr,70
+Unknown,308 Win,71
+Not-stolen,30-30 Win,72
+Unknown,32 Auto,73
+Unknown,20 gauge,74
+Stolen,28 gauge,75
+Unknown,30-06 Spr,76
+Unknown,300 Win,77
+Not-stolen,16 gauge,78
+Not-stolen,300 Win,79
